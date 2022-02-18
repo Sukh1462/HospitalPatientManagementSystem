@@ -1,4 +1,4 @@
-# HospitalPatientManagementSystem
+# Hospital Patient Management System
 A general pre-triage application for a hospital using object oriented techniques to:
 register or admit patients in the lineup
 manage incoming patients by letting them select COVID test or Triage categories
