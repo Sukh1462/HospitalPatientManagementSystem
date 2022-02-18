@@ -1,0 +1,14 @@
+In line number 46 of your output:
+The output should be:
+Symptoms: bbb bbb bbb
+                    ^
+But your output is: 
+Symptoms: bbb bbb bb
+                     ^
+
+Unmatched character details:
+The character in column 22 is supposed to be:
+  [b] ASCII code(98)
+but you printed
+  [Empty Line] ASCII code(0)
+
